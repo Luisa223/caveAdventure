@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>garfield.PNG</file>
+        <file>schlumpf.PNG</file>
+        <file>wickie.PNG</file>
+        <file>idefix.PNG</file>
+        <file>gold.PNG</file>
+        <file>goldWeg.PNG</file>
+        <file>monster.PNG</file>
+        <file>alien.PNG</file>
+        <file>vampir.PNG</file>
+        <file>zombie.PNG</file>
+        <file>haendler.PNG</file>
+        <file>schoko.PNG</file>
+        <file>bonbon.PNG</file>
+        <file>zaubertrank.PNG</file>
+        <file>schwert.PNG</file>
+        <file>futter.PNG</file>
+        <file>donut.PNG</file>
+        <file>truhe.PNG</file>
+        <file>stein.PNG</file>
+        <file>rahmen.png</file>
+        <file>cave.png</file>
+    </qresource>
+</RCC>

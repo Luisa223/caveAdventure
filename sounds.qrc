@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>coinSound.mp3</file>
+        <file>failSound.mp3</file>
+        <file>yaySound.mp3</file>
+    </qresource>
+</RCC>
